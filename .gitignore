@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.seo-ssr/
+.DS_Store
+.idea/
+.pnpm-store/
+.env.local
+.env.*.local

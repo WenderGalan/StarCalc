@@ -1,0 +1,25 @@
+{
+  "currency": "BRL",
+  "market": "BR",
+  "referenceDate": "2026-10-09",
+  "referenceNote": "Valores migrados do HTML original; confira o preço atual na sua conta Starlink. Esta lista não é atualizada automaticamente.",
+  "plans": [
+    { "id": "lp50", "name": "Prioridade Local · 50 GB", "category": "Prioridade Local", "monthlyPrice": 245, "quotaGB": 50, "dataPolicy": "proportional", "priceStatus": "official-reference" },
+    { "id": "lp500", "name": "Prioridade Local · 500 GB", "category": "Prioridade Local", "monthlyPrice": 685, "quotaGB": 500, "dataPolicy": "proportional", "priceStatus": "official-reference" },
+    { "id": "lp1000", "name": "Prioridade Local · 1 TB", "category": "Prioridade Local", "monthlyPrice": 1235, "quotaGB": 1000, "dataPolicy": "proportional", "priceStatus": "official-reference" },
+    { "id": "lp2000", "name": "Prioridade Local · 2 TB", "category": "Prioridade Local", "monthlyPrice": 2335, "quotaGB": 2000, "dataPolicy": "proportional", "priceStatus": "official-reference" },
+    { "id": "gp50", "name": "Prioridade Global · 50 GB", "category": "Prioridade Global", "monthlyPrice": null, "quotaGB": 50, "dataPolicy": "proportional", "priceStatus": "not-available" },
+    { "id": "gp500", "name": "Prioridade Global · 500 GB", "category": "Prioridade Global", "monthlyPrice": null, "quotaGB": 500, "dataPolicy": "proportional", "priceStatus": "not-available" },
+    { "id": "gp1000", "name": "Prioridade Global · 1 TB", "category": "Prioridade Global", "monthlyPrice": null, "quotaGB": 1000, "dataPolicy": "proportional", "priceStatus": "not-available" },
+    { "id": "gp2000", "name": "Prioridade Global · 2 TB", "category": "Prioridade Global", "monthlyPrice": null, "quotaGB": 2000, "dataPolicy": "proportional", "priceStatus": "not-available" },
+    { "id": "r50", "name": "Viagem · 50 GB", "category": "Viagem", "monthlyPrice": null, "quotaGB": 50, "dataPolicy": "proportional", "priceStatus": "not-available" },
+    { "id": "r100", "name": "Viagem · 100 GB", "category": "Viagem", "monthlyPrice": 339, "quotaGB": 100, "dataPolicy": "proportional", "priceStatus": "public-reference" },
+    { "id": "r300", "name": "Viagem · 300 GB", "category": "Viagem", "monthlyPrice": null, "quotaGB": 300, "dataPolicy": "proportional", "priceStatus": "not-available" },
+    { "id": "runlim", "name": "Viagem · Ilimitado", "category": "Viagem", "monthlyPrice": 619, "quotaGB": 0, "dataPolicy": "unlimited", "priceStatus": "public-reference" },
+    { "id": "res100", "name": "Residencial · 100 Mbps", "category": "Residencial", "monthlyPrice": 189, "quotaGB": 0, "dataPolicy": "unlimited", "priceStatus": "public-reference" },
+    { "id": "res200", "name": "Residencial · 200 Mbps", "category": "Residencial", "monthlyPrice": null, "quotaGB": 0, "dataPolicy": "unlimited", "priceStatus": "not-available" },
+    { "id": "resmax", "name": "Residencial · Max / Ilimitado", "category": "Residencial", "monthlyPrice": 249, "quotaGB": 0, "dataPolicy": "unlimited", "priceStatus": "public-reference" },
+    { "id": "reslite", "name": "Residencial · Lite", "category": "Residencial", "monthlyPrice": null, "quotaGB": 0, "dataPolicy": "unlimited", "priceStatus": "not-available" },
+    { "id": "custom", "name": "Personalizado", "category": "Outro", "monthlyPrice": null, "quotaGB": 50, "dataPolicy": "proportional", "priceStatus": "not-available" }
+  ]
+}
